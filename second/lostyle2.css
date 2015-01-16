@@ -1,0 +1,77 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.header-box1 {
+	width: 100%;
+	height: 30%;
+	background: #D8D8D8;
+	display: flex;
+	position: relative;
+}
+.inner-box1 {
+	width: 90%;
+	height: 80%;
+	background: white;
+	margin: auto;
+	position: relative;
+}
+.text-box1 {
+	width: 95%;
+	height: 60%;
+	margin: auto;
+}
+.button {
+	width: 40%;
+	height: 95%;
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	
+}
+.red-button {
+	width: 20%;
+	height: 25%;
+	background: #D0021B;
+	margin: 0% 2% 5% 5%;
+	text-align: center;	
+	color: white;
+
+}
+.blue-button {
+	width: 20%;
+	height: 25%;
+	background: #4A90E2
+}
+.header-box2 {
+	width: 100%;
+	height: 60%;
+	background: #D8D8D8;
+	display: flex;
+	position: relative;
+}
+.inner-box2 {
+	width: 90%;
+	height: 80%;
+	background: white;
+	margin: auto;
+	position: relative;
+}
+.image-box1 {
+	width: 95%;
+	height: 60%;
+	background: url(http://www.dirtyandthirty.com/wp-content/uploads/2014/08/unicorn_hi-res-300x300.jpg);
+	margin: auto;
+	margin-top: 2%;
+}
+.text-box2 {
+	width: 95%;
+	height: 60%;
+	margin: auto;
+}
+.bottom box3 {
+	
+}
+
