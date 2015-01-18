@@ -1,0 +1,83 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+.big-box {
+	width: 97%;
+	height: 97%;
+	background: white;
+	margin: auto;
+}
+.top-box {
+	width: 100%;
+	height: 20%;
+	background: white;
+	margin-top: 2%;
+	display: flex;
+	margin: 0;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.boxes-a1 {
+	width: 28%;
+	height: 85%;
+	background: #D0021B;
+}
+.boxes-a2 {
+	width: 28%;
+	height: 85%;
+	background: #4A90E2;
+	margin-left: 2%
+	margin-right: 2%;
+}
+.boxes-a3 {
+	width: 28%;
+	height: 85%;
+	background: #4A4A4A;
+}
+.text-box {
+	width: 99%;
+	height: 200px;
+	background: white;
+
+}
+
+.middle-box {
+	width: 100%;
+	height: 200px;
+	background: #4A90E2;
+	display: flex;
+	margin: 0;
+}
+.red-right {
+	width: 28%;
+	height: 100%;
+	float: left;
+	background: #D0021B;
+}
+.bottom-box {
+	width: 100%;
+	height: 100px;
+	background: #4A90E2;
+	display: flex;
+	margin-top: 5%;
+	justify-content: flex-end;
+}
+.rlbottom {
+	width: 2%;
+	height: 100%;
+	background: #D0021B;
+}
+.greybottom {
+	width: 18%;
+	height: 100%;
+	background: #4A4A4A;
+}
+.rrbottom {
+	width: 2%;
+	height: 100%;
+	background: #D0021B;
+}
